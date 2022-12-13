@@ -19,7 +19,7 @@ After following this tutorial you will be able to
 
 The data set: [Inssert a description here]
 
-The sets were recorded using a [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite).
+The data were recorded using a [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite).
 
 
 ## References
