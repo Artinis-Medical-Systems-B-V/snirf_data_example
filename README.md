@@ -25,5 +25,5 @@ The data were recorded using a [Brite MKII (Artinis Medical Systems B.V., Elst, 
 ## References
 ```
 [1] Tucker, S., Dubb, J., Kura, S., von Lühmann,  A., Franke, R., Horschig, J. M., Powell, S., Oostenveld, R., Lührs, M.,  Delaire, É., Aghajan, Z. M., Yun, H., Yücel, M. A., Fang, Q., Huppert,  T. J., Frederick, B. B., Pollonini, L., Boas, D., & Luke, R. (2023). Introduction to the shared near infrared spectroscopy format. Neurophotonics, 10(1), 013507. https://doi.org/10.1117/1.NPh.10.1.013507
-[2] Huppert, T., Diamond, S., Franceschini, M., Boas, D.  (2009). HomER: a review of time-series analysis methods for  near-infrared spectroscopy of the brain. Applied optics 48(10). https://dx.doi.org/10.1364/ao.48.00d280
+[2] Huppert, T., Diamond, S., Franceschini, M., Boas, D. (2009). HomER: a review of time-series analysis methods for near-infrared spectroscopy of the brain. Applied optics 48(10). https://dx.doi.org/10.1364/ao.48.00d280
 ```
