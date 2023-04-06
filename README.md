@@ -20,7 +20,7 @@ After following this tutorial you will be able to
 We share two datasets here:
 
 1. A measurement with a single [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite) placed over the left motor cortex of the subject. The subject performed finger tapping movements with his right hand. Our example analysis analyses channels placed over the motor cortex.
-2. A measurement with two [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite) devices. The devices were placed on the frontal and the parietal cortex. The subject participated in an n-back task. Our example analysis analyses channels placed the prefrontal cortex.
+2. A measurement with two [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite) devices. The devices were placed on the frontal and the parietal cortex. The subject participated in an n-back task. Our example analysis analyses channels placed the over prefrontal cortex.
 
 
 ## References
