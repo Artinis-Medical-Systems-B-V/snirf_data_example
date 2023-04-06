@@ -7,7 +7,7 @@ The Shared Near Infrared Spectroscopy Format (SNIRF) is designed by the function
 ### Aim
 
 The aim of this MATLAB live script is 
-1. to demonstrate the access, exploration and usage of.snirf files (https://github.com/fNIRS/snirf) in Homer3 (https://github.com/BUNPC/Homer3) [2], a MATLAB application for fNIRS data processing and visualization and
+1. to demonstrate the access, exploration and usage of.snirf files (https://github.com/fNIRS/snirf) in Homer3 (https://github.com/BUNPC/Homer3) [2], a MATLAB application for fNIRS data processing and visualization, and
 2. to demonstrate how to apply a basic processing stream in Homer3 without using the Homer3 GUI.
 
 ### Learning outcome
@@ -17,9 +17,10 @@ After following this tutorial you will be able to
  - access, explore and use the meta data (i.e., stimuli information, probes sources/detector geometry, measurement date and time, etc) stored in the .snirf file and
  - apply a basic processing stream from raw data to an averaged hemodynamic response function (HRF) using Homer3 functions.
 
-The data set: [Inssert a description here]
+We share two datasets here:
 
-The data were recorded using a [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite).
+1. A measurement with a single [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite) placed over the left motor cortex of the subject. The subject performed finger tapping movements with his right hand. Our example analysis analyses channels placed over the motor cortex.
+2. A measurement with two [Brite MKII (Artinis Medical Systems B.V., Elst, The Netherlands)](https://www.artinis.com/brite) devices. The devices were placed on the frontal and the parietal cortex. The subject participated in an n-back task. Our example analysis analyses channels placed the prefrontal cortex.
 
 
 ## References
