@@ -1,0 +1,13 @@
+Name: 20230215_n-back_BriteMKII.oxy5
+
+Description: 3-back spatial working memory task
+
+Devices, streams: Brite MKII SysID 24265, 24372
+
+Location of sensors: Brite 2x 10 channel + 2SSC L-shaped (for Homer export) covering the right (24265) and left (24372) prefrontal and parietal cortices 
+
+Events: The experiment starts with a resting period of approximately 30 seconds followed by a N-back task
+of 30 seconds, performed by the participant. This will be repeated 10 times. During the N-back task intervention, 
+a figure with a 3 by 3 square grid is opened.
+
+Authors: KS, MS
