@@ -1,4 +1,4 @@
-Name: 20230215_n-back_BriteMKII.oxy5
+Name: D_2023.snirf
 
 Description: 3-back spatial working memory task
 

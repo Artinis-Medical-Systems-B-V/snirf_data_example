@@ -1,6 +1,4 @@
-Name: Brite Fingertapping 5-12-2020.oxy4;
-
-Brite Fingertapping 5-19-2020.oxy4; Brite Fingertapping 5-15-2020.oxy4
+Name: Brite Fingertapping 5-12-2020.snirf; Brite Fingertapping 5-19-2020.snirf; Brite Fingertapping 5-15-2020.snirf
 
 Description: Finger tapping task
 
