@@ -1,3 +1,5 @@
+[![View snirf_data_example on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/134387-snirf_data_example)
+
 # Shared Near Infrared Spectroscopy Format (SNIRF) Specification
 
 ### Background
