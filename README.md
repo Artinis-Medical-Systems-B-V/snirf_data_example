@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Artinis-Medical-Systems-B-V/snirf_data_example)
 [![View snirf_data_example on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/134387-snirf_data_example)
 
 # Shared Near Infrared Spectroscopy Format (SNIRF) Specification
